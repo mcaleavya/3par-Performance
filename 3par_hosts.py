@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # parsing script for 3par
-# Allan McAleavy 2917
+# Allan McAleavy 2017
 # takes input of statvlun.out file
 
 import re
