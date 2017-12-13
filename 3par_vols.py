@@ -25,8 +25,6 @@ aiosz = 0
 queue = 0
 ts = 0
 pattern = '%H:%M:%S %m/%d/%Y'
-npluscpu = 0
-util = 0
 result = {}
 
 examples = """examples:
