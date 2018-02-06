@@ -1,5 +1,7 @@
 # 3par-Performance
 Performance Scripts for parsing 3par statistics 
+See https://wordpress.com/post/allanmcaleavyblog.wordpress.com/956
+
 
 ## 3par_hosts.py 
 Script to parse statvlun aggregate host data into influx batch format.
