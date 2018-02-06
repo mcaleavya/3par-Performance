@@ -52,7 +52,7 @@ VolIOSZ,VolIOSZ=vola,type=wiosz value=38.2 1505502061
 ## 3par_ports_cpu.py 
 requires files named stacpu.out statcmp.out and statport-host.out to be in the local directory.
 ```
-./3par_portS_cpu.py > batch
+./3par_ports_cpu.py > batch
 /usr/bin/curl -i -XPOST 'http://<influx_db>:8086/write?db=<3PAR DBNAME>&precision=s' --data-binary @batch
 ```
 
