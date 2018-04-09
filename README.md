@@ -1,6 +1,6 @@
 # 3par-Performance
 Performance Scripts for parsing 3par statistics 
-See https://wordpress.com/post/allanmcaleavyblog.wordpress.com/956
+See https://wordpress.com/post/allanmcaleavy.com/956
 
 
 ## 3par_hosts.py 
