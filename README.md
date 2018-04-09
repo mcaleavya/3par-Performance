@@ -1,6 +1,11 @@
 # 3par-Performance
 Performance Scripts for parsing 3par statistics 
-See https://wordpress.com/post/allanmcaleavy.com/956
+See https://wordpress.com/post/allanmcaleavy.com/956 
+You will need to have influxdb and Grafana installed
+### You will need a datasource created in grafana for your influxdb named after your array
+### Once you have this then import the json files and select this as your datasource.
+This is the same process as for the XIV scripts - https://wordpress.com/post/allanmcaleavy.com/16
+
 
 
 ## 3par_hosts.py 
