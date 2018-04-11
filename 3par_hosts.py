@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # parsing script for 3par
-# Allan McAleavy 2017
+# Copyright (c) 2017 Allan McAleavy
+# Licensed under the Apache License, Version 2.0 (the "License")
 # takes input of statvlun.out file
 
 import re
